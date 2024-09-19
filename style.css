@@ -6,7 +6,7 @@
     background-size: cover;
 }
 .white{
-    height: 1090px;
+    height: 500px;
     background-color:#e8e8e8;
     margin-top: 400px;
     margin-bottom: 200px;
@@ -20,10 +20,24 @@
     font-family: "griffon", serif;
     font-weight: 600;
     font-style: normal;
+    opacity: 1;
   }
   .navbar {
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+    padding: 0%;
+  }
+  .about{
+    text-align: center;
+  }
+  .container-fluid{
+    background-color: rgb(141, 29, 29);
+  }
+  h2{
+    padding: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
   }
