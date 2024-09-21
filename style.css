@@ -51,3 +51,7 @@ color: white;
     color: #ffffff;
     text-shadow: 2px 2px 4px rgb(177, 45, 45);
   }
+  .wrapper{
+    text-align: center;
+    font-size: 20px;
+  }
