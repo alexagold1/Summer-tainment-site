@@ -14,13 +14,13 @@
     opacity: 0.7;
   }
   .h1{
-    margin-top: 150px;
-color: white;
-    font-size: 98px;
-    font-family: "griffon", serif;
-    font-weight: 600;
-    font-style: normal;
+    margin-top: 30px;
+color: black;
+font-family: "bigcity-grotesque-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
     opacity: 1;
+    text-align: center;
   }
   .navbar {
     font-family: "Playfair Display", serif;
@@ -55,3 +55,9 @@ color: white;
     text-align: center;
     font-size: 20px;
   }
+  .bigcity-grotesque-pro{
+  font-family: "bigcity-grotesque-pro", sans-serif;
+font-weight: 400;
+font-style: normal;
+  }
+  
